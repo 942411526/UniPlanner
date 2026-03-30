@@ -6,7 +6,7 @@
 
 ## 📢 News
 - **[Oct 2025]** 🎉 Paper released on arXiv
-- 
+- **[Coming Soon]** Code will be released upon publication
 
 
 

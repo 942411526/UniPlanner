@@ -16,4 +16,4 @@
 https://github.com/MCZhi/GameFormer
 
 ##  Contact
-If you have any questions on of this study, please feel free to contact us: Xing Yang(yx942411526@gmail.com or 2350432002@email.szu.edu.cn)
+If you have any questions on of this study, please feel free to contact us: Xin Yang(yx942411526@gmail.com )
